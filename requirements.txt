@@ -1,9 +1,11 @@
 tensorflow==2.15.0
-pandas==1.26.4
-numpy
+pandas==2.2.3
+numpy==1.26.4
 scikit-learn
 tensorboard
 matplotlib
 streamlit==1.40.2
 scikeras
 nltk
+protobuf==4.25.3
+h5py==3.10.0
